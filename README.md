@@ -22,3 +22,4 @@
 # .terraformrc
 # terraform.rc
 # Игнорирование файла terraform.rc во всем проекте и файлов с расширением terraformrc
+#
